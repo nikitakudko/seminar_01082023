@@ -2,8 +2,7 @@
 //2, 3, 7 -> 7
 //44 5 78 -> 78
 //22 3 9 -> 22
-Console.WriteLine("Введите число А");
-int A = Convert.ToInt32(Console.ReadLine());
+C
 
 Console.WriteLine("Введите число B");
 int B = Convert.ToInt32(Console.ReadLine());
